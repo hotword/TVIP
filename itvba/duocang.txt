@@ -1,3 +1,6 @@
-{ "urls": [{ "url": "http://tt.iitvba.com", "name": "浏览器打开tv520.shop获取新接口" },
 
-{ "url": "http://itvba.xyz/tv/", "name": "浏览器打开tv520.shop获取新接口" }]}
+{ "urls": [{ "url": "http://tv.xn--yets76e11t.top/", "name": "公众号[新奇广告]回复666获取接口" },
+
+{ "url": "http://tv.xn--yets76e11t.top/", "name": "公众号[新奇广告]回复666获取接口" },
+
+{ "url": "http://tv.xn--yets76e11t.top/", "name": "公众号[新奇广告]回复666获取接口" }]}
